@@ -1,0 +1,12 @@
+.screensaver__container__room-details__name {
+    text-transform: capitalize;
+     white-space: nowrap;
+     text-overflow: ellipsis;
+     overflow: hidden;
+     line-height: 1.5em;
+     width: 133.333333333vh;
+    }
+    /* Color for available label */
+    .color__main-color-3 {
+    color: #FFFF00;
+    }
