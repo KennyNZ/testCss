@@ -17,6 +17,7 @@
   font-size: 6vh;
   font-weight: 500;
   line-height: 1.2;
+  color:#57f171;
 }
 /* 'Available' or 'Reserved' label */
 .room__container__status__title__label1 {
@@ -50,7 +51,7 @@
 
 /* Logo screensaver */
 .screensaver__container__logo__img {
-  height: 20vh;  /* default 9vh */
+  height: 25vh;  /* default 9vh */
 }
 /* Border color screensaver layout when reserved */
 .screensaver__container--reserved {
