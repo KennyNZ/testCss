@@ -31,7 +31,6 @@
   display: block;
 }
 
-
 /****************** Horizontal Room section *********************/
 /* Room name */
 .room__container__room-details__name {
@@ -70,11 +69,12 @@
 
 /* 'For next' label */
 .room__container__status__title__label2 {
+  color: #3cf799;
   font-family: Crestron, sans-serif;
   font-style: normal;
   line-height: 0.75em;
   font-size: 3.3333333333vh;
-  font-weight: 400;
+  font-weight: 800;
   margin-top: 2vh;
   letter-spacing: 1px;
   text-transform: uppercase;
